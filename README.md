@@ -3,28 +3,30 @@ The project contains a social media app created with MERN (MongoDB, ExpressJs, R
 ## Getting started
 
 There are two directories to run this project - server and client
-1. To run the react client app 
+1. To run the react client app <br />
     ```cd client ``` <br />
     ```npm run start```
-2. To run the react express server 
+2. To run the react express server <br />
     ```cd server``` <br />
     ```npm run start```
+3. Go to http://localhost:3000 to run the app
+
 
 ## Login Screen
-![Hello](Mern%20login.gif)
+![](Mern%20login.gif)
 
 ## Home Screen
-![Hello](Mern%20flow.gif)
+![](Mern%20flow.gif)
 
 ## Add Post
-![Hello](Mern%20theme.gif)
+![](Mern%20add%20post.gif)
 
 ## Theme support
-![Hello](Mern%20theme.gif)
+![](Mern%20theme.gif)
 
 
 ## Mobile support
-![Hello](Mern%20mobile%20view.gif)
+![](Mern%20mobile%20view.gif)
 
 ## License
 
