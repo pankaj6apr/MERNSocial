@@ -10,7 +10,7 @@ There are two directories to run this project - server and client
     ```cd server```
     ```npm run start```
 
-![Hello](https://gitlab.com/pankaj6apr/mern-social-media/-/blob/main/Mern%20flow.gif)
+![Hello](Mern%20flow.gif)
 <img src="https://gitlab.com/pankaj6apr/mern-social-media/-/blob/main/Mern%20flow.gif"/>
 
 ## License
